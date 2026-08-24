@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kesiiii10/daily-code/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kesiiii10/daily-code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesiiii10/daily-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kesiiii10/daily-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kesiiii10/daily-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kesiiii10/daily-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -24,25 +26,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kesiiii10/daily-code/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
