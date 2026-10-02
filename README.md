@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kesiiii10/daily-code/tree/master/0022-generate-parentheses) |
 | [1140-stone-game-ii](https://github.com/kesiiii10/daily-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kesiiii10/daily-code/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kesiiii10/daily-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kesiiii10/daily-code/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kesiiii10/daily-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kesiiii10/daily-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kesiiii10/daily-code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -185,5 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kesiiii10/daily-code/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kesiiii10/daily-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kesiiii10/daily-code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
